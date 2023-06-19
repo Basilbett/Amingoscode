@@ -1,8 +1,11 @@
 # Amingoscode
 #its all about API layers
-#RETRIEVING
+#RETRIEVING   
 #DELETING
 #UPDATING   and
 #CREATEING
 
-#
+
+
+
+
